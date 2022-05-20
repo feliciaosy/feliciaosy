@@ -1,0 +1,3 @@
+- 👋 Hello! I’m Felicia Ong
+- 👨‍🎓 I’m currently an undergraduate studying Computational Biology 
+- 📫 You can reach me at felicia.ong.sing.yi@gmail.com
